@@ -9,7 +9,6 @@ __author__ = 'yunanw'
 IS_SECURE = False
 BUFFER_SIZE = 1024*8
 REMOTE_SERVER_ADDR = None
-IS_REMOTE_SERVER = True
 PWD="yunanw"
 block_size = 16
 
